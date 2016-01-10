@@ -1,0 +1,156 @@
+{
+  "shuttles": [
+    {
+      "name": "MAVERICK STADIUM LOT 26",
+      "color": "blue",
+      "order": "1",
+      "latitude": "32.727882",
+      "longitude": "-97.126266",
+      "time":"300"
+    },
+    {
+      "name": "MAVERICK PLACE",
+      "color": "blue",
+      "order": "2",
+      "latitude": "32.724417",
+      "longitude": "-97.119417",
+      "time":"720"
+    },
+    {
+      "name": "ARBOR OAKS",
+      "color": "blue",
+      "order": "3",
+      "latitude": "32.7307457",
+      "longitude": "-97.1222739",
+      "time":"960"
+    },
+    {
+      "name": "MEADOW RUN",
+      "color": "blue",
+      "order": "4",
+      "latitude": "32.731453",
+      "longitude": "-97.121683",
+      "time":"180"
+    },
+    {
+      "name": "SWIFT CENTER",
+      "color": "blue",
+      "order": "5",
+      "latitude": "32.734191",
+      "longitude": "-97.121614",
+      "time":"180"
+    },
+    {
+      "name": "TIMBER BROOK/CAMPUS EDGE",
+      "color": "blue",
+      "order": "6",
+      "latitude": "32.733825",
+      "longitude": "-97.119097",
+      "time":"180"
+    },
+    {
+      "name": "SOCIAL WORK COMPLEX",
+      "color": "blue",
+      "order": "7",
+      "latitude": "32.734928",
+      "longitude": "-97.114057",
+      "time":"420"
+    },
+    {
+      "name": "MAC",
+      "color": "blue",
+      "order": "8",
+      "latitude": "32.732652",
+      "longitude": "-97.116470",
+      "time":"360"
+    },
+    {
+      "name": "GREEK ROW",
+      "color": "blue",
+      "order": "9",
+      "latitude": "32.730855",
+      "longitude": "-97.120538",
+      "time":"360"
+    },
+    {
+      "name": "STUDIO ARTS",
+      "color": "blue",
+      "order": "10",
+      "latitude": "32.727958",
+      "longitude": "-97.126742",
+      "time":"480"
+    },
+    {
+      "name": "LOT 50",
+      "color": "green",
+      "order": "1",
+      "latitude": "32.723627",
+      "longitude": "-97.111507",
+      "time":"600"
+    },
+    {
+      "name": "HEIGHTS OF PECAN",
+      "color": "green",
+      "order": "2",
+      "latitude": "32.7263496",
+      "longitude": "-97.1110166",
+      "time":"180"
+    },
+    {
+      "name": "UNIVERSITY HALL",
+      "color": "green",
+      "order": "3",
+      "latitude": "32.728391",
+      "longitude": "-97.113508",
+      "time":"600"
+    },
+    {
+      "name": "SMART HOSPITAL",
+      "color": "green",
+      "order": "4",
+      "latitude": "32.730348",
+      "longitude": "-97.116398",
+      "time":"360"
+    },
+    {
+      "name": "SOCIAL WORK",
+      "color": "green",
+      "order": "5",
+      "latitude": "32.734928",
+      "longitude": "-97.114057",
+      "time":"540"
+    },
+    {
+      "name": "UNIVERSITY CENTER",
+      "color": "green",
+      "order": "6",
+      "latitude": "32.732085",
+      "longitude": "-97.111930",
+      "time":"420"
+    },
+    {
+      "name": "SHUTTLE STOP",
+      "color": "green",
+      "order": "7",
+      "latitude": "32.732089",
+      "longitude": "-97.109329",
+      "time":"120"
+    },
+    {
+      "name": "MORTIZ PLAZA",
+      "color": "green",
+      "order": "8",
+      "latitude": "32.731080",
+      "longitude": "-97.108670",
+      "time":"120"
+    },
+    {
+      "name": "BUSINESS BUILDING",
+      "color": "green",
+      "order": "9",
+      "latitude": "32.729464",
+      "longitude": "-97.109920",
+      "time":"180"
+    }
+  ]
+}
